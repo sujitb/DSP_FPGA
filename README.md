@@ -1,8 +1,8 @@
 # DSP_FPGA
 Collection of ideas, tips, design and practices
 
-<b>Author: Dr. Sujit Bhattacharya</b>
-Credentials:  <b>PhD<\b> in Signal Processing and Communication Engineering, University of Edinburgh, UK
+Author: Dr. Sujit Bhattacharya 
+Credentials:  PhD in Signal Processing and Communication Engineering, University of Edinburgh, UK
               Masters in Engineering (ME) in Signal Processing, Indian Institute of Science (IISc), Bangalore, India.
               Bachelors in Engineering (BE) in Electronics and Communication Engg, Birla Insititute of Technology, Mesra, India
               Senior Member IEEE (SMIEEE), US
